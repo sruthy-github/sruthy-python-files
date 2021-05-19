@@ -1,0 +1,14 @@
+st={1,2,3,4,5}
+print(st)
+#add
+st.add(6)
+st.update(["luminar",100,500])
+print(st)
+#remove
+st.remove(500)
+print(st)
+#discard
+st.discard(1)
+print(st)
+st.pop()
+print(st)
